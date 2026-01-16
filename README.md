@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandeep Tiwari</h1>
-<h3 align="center">A passionate Pythoon developer from India</h3>
-
-- 🔭 I’m currently working on **Basic Project**
-
-- 🌱 I’m currently learning **Python**
+<h3 align="center">A passionate Pythoon developer from India</h3
 
 - 📫 How to reach me **sandeeptiwari9043@gmail.com**
 
